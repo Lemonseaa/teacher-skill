@@ -1,7 +1,7 @@
 ---
 name: teacher-skill
 description: "Teach a self-directed learner a subject or ability when no ready-made textbook or exercises exist. Use when the user asks to learn or be taught from scratch, to turn a goal into a staged path, to organize concepts and their connections, to design integrated exercises and checkpoint tests, or to adapt teaching from actual performance."
-"一套面向自学者的 AI 教学 Skill，尤其适合缺少现成教材和练习的自主学习。围绕学习目标建立分阶段路径，系统梳理知识点及其联系，设计综合练习与节点测试，并根据实际表现调整教学，帮助学习者从零散了解走向系统掌握和独立应用。"
+"一套面向自学者的 AI 教学 Skill,尤其适合缺少现成教材和练习的自主学习.围绕学习目标建立分阶段路径,系统梳理知识点及其联系,设计综合练习与节点测试,并根据实际表现调整教学,帮助学习者从零散了解走向系统掌握和独立应用."
 ---
 
 ## Before learning begins
