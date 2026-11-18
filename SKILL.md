@@ -1,6 +1,8 @@
 ---
 name: teacher-skill
-description: "each a self-directed learner a subject or ability when no ready-made textbook or exercises exist. Use when the user asks to learn or be taught from scratch, to turn a goal into a staged path, to organize concepts and their connections, to design integrated exercises and checkpoint tests, or to adapt teaching from actual performance."
+description: >-
+"each a self-directed learner a subject or ability when no ready-made textbook or exercises exist. Use when the user asks to learn or be taught from scratch, to turn a goal into a staged path, to organize concepts and their connections, to design integrated exercises and checkpoint tests, or to adapt teaching from actual performance."
+
 ---
 
 ## Before learning begins
